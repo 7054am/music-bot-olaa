@@ -1,6 +1,6 @@
 owner=490871722011131935
 prefix=1
-game=1play|
+game=1play|#PG.Community
 stayinchannel=false
 songinstatus=false
 token=NTgzNjg4OTg4MzY0Mzc0MDIw.XPAAwA.TZJ4laDwh8ybnRhhPOELJDby9N4
